@@ -11,7 +11,7 @@
     font-size:14px;
     color:black;
     list-style:none;
-    width:800px;
+    width:800px;;
 }
 
 #content ul {
@@ -20,14 +20,13 @@
 }
 
 #content a {
-    float:left;
     background: #FFFFFF;
     color:#000000;
-    display:block;
     padding:3px 10px;
     font-family:Helvetica;
     font-size:15px;
     text-decoration:none;
+    line-height:1.6;
 }
 
 #content p {
@@ -120,4 +119,8 @@ P.copy {
 
 .clear {
     clear:both;
+}
+
+a.imglink:hover {
+    background-color:#fff !important;
 }
