@@ -15,11 +15,12 @@
 }
 
 #content ul {
-    width:300px;
     list-style:none;
+    width:300px;
 }
 
 #content a {
+    float:left;
     background: #FFFFFF;
     color:#000000;
     display:block;
@@ -115,4 +116,8 @@ P.copy {
 #nav span {
     background:#FFFFFF;
     display:block;
+}
+
+.clear {
+    clear:both;
 }
