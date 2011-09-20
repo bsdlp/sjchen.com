@@ -1,6 +1,11 @@
+html {
+    height:97%;
+}
+
 #container {
     margin:0 auto;
     width:800px;
+    min-height:60%;
 }
 
 #content {
@@ -11,7 +16,9 @@
     font-size:14px;
     color:black;
     list-style:none;
-    width:800px;;
+    width:800px;
+    position:absolute;
+    min-height:60%
 }
 
 #content ul {
