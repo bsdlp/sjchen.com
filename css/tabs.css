@@ -131,3 +131,23 @@ P.copy {
 a.imglink:hover {
     background-color:#fff !important;
 }
+
+.contenthead {
+    width:100%;
+    padding-bottom:5px;
+    display:block;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.content2 {
+    width:100%;
+    padding-bottom:30px;
+}
+
+#content hr {
+    height:2px;
+    border-width:0;
+    background-color:black;
+    color:"black";
+}
