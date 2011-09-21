@@ -134,7 +134,7 @@ a.imglink:hover {
 
 .contenthead {
     width:100%;
-    padding-bottom:5px;
+    padding-bottom:10px;
     display:block;
     font-size:22px;
     font-weight:bold;
@@ -142,7 +142,7 @@ a.imglink:hover {
 
 .content2 {
     width:100%;
-    padding-bottom:30px;
+    padding-bottom:25px;
 }
 
 #content hr {
@@ -150,4 +150,11 @@ a.imglink:hover {
     border-width:0;
     background-color:black;
     color:"black";
+}
+
+.aboutpic {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
 }
